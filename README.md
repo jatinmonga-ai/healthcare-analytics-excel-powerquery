@@ -12,6 +12,7 @@ This was built as part of a 3-project healthcare analytics portfolio series, wit
 also analysed using an AI pipeline (Julius AI + Mostly AI + Python) and PostgreSQL.
 
 # 🖼️ Dashboard Preview
+<img width="986" height="572" alt="Patient Dasboard" src="https://github.com/user-attachments/assets/a33af8c3-28cc-4c3f-8f34-ff4699134e57" />
 
 
 # 🔧 Tools & Features Used
@@ -110,5 +111,5 @@ Interactive dashboard design with connected slicers
 Healthcare domain knowledge and analytical storytelling
 
 
-Part 2 of 3 — Healthcare Analytics Portfolio Series
+## Part 2 of 3 — Healthcare Analytics Portfolio Series
 Project 1: AI Pipeline (Julius AI + Mostly AI + Python) | Project 3: PostgreSQL
